@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task4.1</string>
+    <string name="spend_time">You spent 00:00 on ... last time.</string>
+    <string name="counter">00:00:00</string>
+    <string name="enter_name">Enter your task:</string>
+</resources>
